@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
  
 <a>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> [Discord]: LILDULCE#7422
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <br>

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
  
 <a>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): LILDULCE#7422
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord]: LILDULCE#7422
 </a>
   
 <a href="mailto:israeldiazf5@gmail.com" target="_blank">

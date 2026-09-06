@@ -3,18 +3,13 @@
 <br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-
-Here are some ideas to get you started:
-<li></li>
-soy conserje, pero me dedico a estudiar Analista Programador
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-</li><!--Contact Section--> 
+Cosas de mí
+<li>
+  soy conserje, pero me dedico a estudiar Analista Programador
+</li>
+<li>
+  
+</li> 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> Contáctate conmigo</h2></summary>
